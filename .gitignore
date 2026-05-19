@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos compilados
+out/
+*.class
+
+# Dados gerados pelo programa
+dados/
+
